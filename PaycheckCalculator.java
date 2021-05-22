@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 // Justin Rubio
 
-// A combination of everything I have learned in COP 2006
+// This project is a combination of everything I have learned in COP 2006.
 
-// A program that can be used by payroll clerks to calculate wages and paycheck stubs.
+// The PaycheckCalculator is a program that can be used by payroll clerks to calculate wages and paycheck stubs for employees.
 
 // There are 8 primitive data types in Java:
 /*
